@@ -6,4 +6,5 @@
 
 ### *Para começar, alguns links de acesso a alguns repositórios que desenvolvi* ;-)
 
--[] ()
+-[Processamento de Linhagem Natural com Gensim] (https://github.com/hellengleicy/PLN-Gensim)
+> Exemplo de análise de similaridade semântica entre documentos usando Gensim
