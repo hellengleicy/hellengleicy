@@ -6,7 +6,7 @@
 
 ### *Para começar, alguns links de acesso a alguns repositórios que desenvolvi* ;-)
 
-![Processamento de Linguagem Natural com Gensim] (https://github.com/hellengleicy/PLN-Gensim)
+[Processamento de Linguagem Natural com Gensim] (https://github.com/hellengleicy/PLN-Gensim)
 >Exemplo de análise de similaridade semântica entre documentos usando Gensim.
 
 -![Predição de Séries Temporias] (https://github.com/hellengleicy/Series_Temporais_Pre-os_Combustiveis)
