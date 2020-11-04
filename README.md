@@ -5,6 +5,8 @@
 ##### Mas todos com um ponto em comum, são ao meu ver casos interessantes de serem compartilhados e que *podem ensinar algo* a quem os acessa.
 
 ### *Para começar, alguns links de acesso a alguns repositórios que desenvolvi* ;-)
+[![hellengleicy](https://github-readme-stats.vercel.app/api/pin/?username=hellengleicy&repo=repo-name&show_owner=true)](https://github.com/hellengleicy/repo-name)
+
 #
 [Processamento de Linguagem Natural com Gensim] (https://github.com/hellengleicy/PLN-Gensim)
 >Exemplo de análise de similaridade semântica entre documentos usando Gensim.
