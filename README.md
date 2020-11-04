@@ -1,6 +1,6 @@
 ### *Olá! Bem-vindx ao meu GITHUB!*
 
-##### Este é um espaço em que pretendo compartilhar alguns * *_projetos e repositórios_* * desenvolvidos por mim, ou por outras pessoas.
+##### Este é um espaço em que pretendo compartilhar alguns *_projetos e repositórios_* desenvolvidos por mim, ou por outras pessoas.
 ##### Mas todos com um ponto em comum, são ao meu ver casos interessantes de serem compartilhados e que *_podem ensinar algo_* a quem os acessa.
 
 ### *Para começar, alguns links de acesso a alguns repositórios que desenvolvi* ;-)
